@@ -1,0 +1,22 @@
+{
+  "name": "tambaqui",
+  "version": "1.0.0",
+  "description": "ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Aquino/Tambaqui.git"
+  },
+  "keywords": [
+    "automaticORM"
+  ],
+  "author": "Nathan-Aquino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathan-Aquino/Tambaqui/issues"
+  },
+  "homepage": "https://github.com/Nathan-Aquino/Tambaqui#readme"
+}

@@ -19,6 +19,7 @@
     "url": "https://github.com/Nathan-Aquino/Tambaqui/issues"
   },
   "homepage": "https://github.com/Nathan-Aquino/Tambaqui#readme",
+  "type": "module",
   "dependencies": {
     "pg": "^8.7.3"
   }
